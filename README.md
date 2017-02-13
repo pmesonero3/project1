@@ -1,2 +1,2 @@
 # project1
-project one of ECE6606
+project one of ECE6730
