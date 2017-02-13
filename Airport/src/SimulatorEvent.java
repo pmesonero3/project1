@@ -1,5 +1,4 @@
-//YOUR NAME HERE
-
+//Philippe MESONERO
 
 public class SimulatorEvent extends Event {
     public static final int STOP_EVENT = 0;

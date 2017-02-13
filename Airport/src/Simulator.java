@@ -1,4 +1,4 @@
-//YOUR NAME HERE
+//Philippe MESONERO
 
 import java.util.TreeSet;
 
@@ -31,5 +31,8 @@ public class Simulator {
     public static void schedule(Event event) {
         event.setTime(event.getTime() + getSim().getCurrentTime());
         getSim().schedule(event);
+    }
+    public static void setInstance(){
+        instance = null;
     }
 }
